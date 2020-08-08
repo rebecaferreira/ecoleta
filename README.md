@@ -12,6 +12,7 @@
  ### Descrição
  
  As tecnologias que foram utilizadas nesse projeto foram:
+ 
  ✔ HTML
  
  ✔ CSS
