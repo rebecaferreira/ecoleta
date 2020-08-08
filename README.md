@@ -22,7 +22,7 @@
  Foram trabalhados conceitos de responsividade no CSS, fazendo com que o site seja acessível para Mobile.
  
  #### Tela Inicial (Web on Desktop + Web on Mobile):
- ![ecoleta](https://scontent.fcpq3-1.fna.fbcdn.net/v/t1.15752-9/101807743_255039609254471_3469859712376708904_n.png?_nc_cat=111&_nc_sid=b96e70&_nc_ohc=az3z_5VoABoAX-D3ny7&_nc_ht=scontent.fcpq3-1.fna&oh=591fb00381602ffe693cd49b6d0763aa&oe=5F010C90)
+ ![ecoleta](https://media-exp1.licdn.com/dms/image/C4E22AQG_NFlIiVa8dg/feedshare-shrink_2048_1536/0?e=1599696000&v=beta&t=0KmDUYlqTJ28vHWs_EkB6m8AZEnDhV7E1-w7FvQ-Kqk)
  
  #### Tela de cadastro de novos pontos de coleta:
  ![cadastro](https://scontent.fcpq3-1.fna.fbcdn.net/v/t1.15752-9/102579654_202534637502334_7281501403032730314_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=zMecf5I4ZT0AX83ZHgS&_nc_ht=scontent.fcpq3-1.fna&oh=b8e2686bd84accadc292cfe025617a23&oe=5F02C06C)
