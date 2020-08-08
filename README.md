@@ -12,12 +12,12 @@
  ### Descrição
  
  As tecnologias que foram utilizadas nesse projeto foram:
- * HTML
- * CSS
- * JavaScript
- * Express
- * SQLite
- * Nunjucks
+ ✔ HTML
+ ✔ CSS
+ ✔ JavaScript
+ ✔ Express
+ ✔ SQLite
+ ✔ Nunjucks
  
  Foram trabalhados conceitos de responsividade no CSS, fazendo com que o site seja acessível para Mobile.
  
