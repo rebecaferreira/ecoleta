@@ -1,4 +1,14 @@
-# ![Ecoleta](/public/assets/logo.svg)
+<p align="center"> 
+          <img src=/public/assets/logo.svg/>
+</p>
+
+
+
+<br>
+<p align="center">
+  <img src=https://img.shields.io/badge/Ecoleta-NLW-green/>
+ </p>
+
  
  ## Sobre
  
@@ -28,4 +38,4 @@
  Foram trabalhados conceitos de responsividade no CSS, fazendo com que o site seja acessível para Mobile.
  
  #### Tela Inicial (Web on Desktop + Web on Mobile):
- ![ecoleta](https://media-exp1.licdn.com/dms/image/C4E22AQG_NFlIiVa8dg/feedshare-shrink_2048_1536/0?e=1599696000&v=beta&t=0KmDUYlqTJ28vHWs_EkB6m8AZEnDhV7E1-w7FvQ-Kqk)
+ ![ecoleta](public/assets/tela.jpg)
